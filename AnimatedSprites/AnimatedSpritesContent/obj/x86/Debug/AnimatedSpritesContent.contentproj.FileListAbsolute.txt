@@ -1,0 +1,3 @@
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\zhengyu\Desktop\游戏\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\uncle.xnb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\uncle_move.xnb
+C:\Users\zhengyu\Desktop\游戏\源代码\Chapter 05\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\uncle.xnb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\uncle_move.xnb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\zhengyu\Desktop\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
